@@ -4,4 +4,4 @@
 class Student:
 
     def __init__(self):
-        print('Hello! I'm a student')
+        print('Hello! I am a student')
