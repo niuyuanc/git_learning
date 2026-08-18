@@ -8,3 +8,4 @@ class Student:
         self.name = 'xm'
         self.age = 20
         self.email = ''
+        self.phone = ''
