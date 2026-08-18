@@ -1,7 +1,8 @@
-# 这是一个学生信息类
+
 
 
 class Student:
 
     def __init__(self):
-        print('Hello! I am a student')
+        print('Hello! I am a student.')
+        self.name = 'xm'
